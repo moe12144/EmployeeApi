@@ -1,5 +1,5 @@
 # EmployeeApi
-// How to get it runing
+// Steps to get the code runing
 
 Clone
 command 'npm i'  //via terminal
